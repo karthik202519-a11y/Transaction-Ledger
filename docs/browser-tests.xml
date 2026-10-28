@@ -1,0 +1,22 @@
+<testsuites id="" name="" tests="8" failures="0" skipped="0" errors="0" time="36.00031">
+<testsuite name="ledger.spec.ts" timestamp="2026-10-28T05:15:44.688Z" hostname="desktop-chromium" tests="4" failures="0" skipped="0" time="12.758" errors="0">
+<testcase name="header account creation supports cancel, validation and retry" classname="ledger.spec.ts" time="3.212">
+</testcase>
+<testcase name="complete ledger workflow, validations, duplicate protection, transfer and responsive layout" classname="ledger.spec.ts" time="4.197">
+</testcase>
+<testcase name="pagination, retry states and screenshot evidence" classname="ledger.spec.ts" time="3.212">
+</testcase>
+<testcase name="account loading error recovers and transaction request disables repeated submit" classname="ledger.spec.ts" time="2.137">
+</testcase>
+</testsuite>
+<testsuite name="ledger.spec.ts" timestamp="2026-10-28T05:15:44.688Z" hostname="mobile-chromium" tests="4" failures="0" skipped="0" time="12.585" errors="0">
+<testcase name="header account creation supports cancel, validation and retry" classname="ledger.spec.ts" time="3.244">
+</testcase>
+<testcase name="complete ledger workflow, validations, duplicate protection, transfer and responsive layout" classname="ledger.spec.ts" time="4.056">
+</testcase>
+<testcase name="pagination, retry states and screenshot evidence" classname="ledger.spec.ts" time="3.397">
+</testcase>
+<testcase name="account loading error recovers and transaction request disables repeated submit" classname="ledger.spec.ts" time="1.888">
+</testcase>
+</testsuite>
+</testsuites>
